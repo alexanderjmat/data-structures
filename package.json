@@ -1,0 +1,14 @@
+{
+  "name": "data-structures",
+  "version": "1.0.0",
+  "description": "javascript implementation of some data structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "author": "AJ",
+  "license": "ISC",
+  "dependencies": {
+    "jest": "^29.5.0"
+  }
+}
